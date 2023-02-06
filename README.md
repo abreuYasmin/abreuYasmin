@@ -11,7 +11,7 @@ I've got my degree in Analisys and Development of Systems last year and right no
 
 - :medal_sports: Here are somethings I do have some knowledge on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>
 
-- ⚡ Fun fact: I teach computational thinking and robotics to kids in Brazil. The future is turning more and more exciting! :woman_teacher:
+- ⚡ Fun fact: I teach computational thinking and robotics to kids in Brazil. The future is turning way more exciting! :woman_teacher:
 - 😄 Pronouns: She/Her
   
  - 📫 How to reach me
