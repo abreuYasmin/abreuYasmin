@@ -1,5 +1,7 @@
 ### Hi there 👋
 ## I`m Yasmin and welcome to my Github profile :woman_technologist:
+### 
+#### I've got my degree in Analisys and Development of Systems last year and right now I'm following studies in to Software Engineering.
 
 - :medal_sports: Here are somethings I do have some knowledge on
 
