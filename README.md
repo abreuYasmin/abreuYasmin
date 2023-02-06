@@ -3,19 +3,16 @@
 
 I've got my degree in Analisys and Development of Systems last year and right now I'm following studies in to Software Engineering.
 
-- :medal_sports: Here are somethings I do have some knowledge on
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>
-
 <div>
 <a href="https://github.com/abreuYasmin">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abreuYasmin&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abreuYasmin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Right now i`m teaching computational thinking and robotics to kids in Brazil. The future is turning more and more exciting! :woman_teacher:
+- :medal_sports: Here are somethings I do have some knowledge on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20" height="20"/>
 
+- ⚡ Fun fact: I teach computational thinking and robotics to kids in Brazil. The future is turning more and more exciting! :woman_teacher:
+- 😄 Pronouns: She/Her
   
  - 📫 How to reach me
 <div>
